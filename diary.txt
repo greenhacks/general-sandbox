@@ -1,0 +1,8 @@
+3/7/2022:
+Link to Python built-in functions (W3 Schools): https://www.w3schools.com/python/python_ref_functions.asp
+
+Used this resource (https://docs.google.com/presentation/d/1SFGhaDRdt_JgRk0lW7K9sDEne2__kIlM4eQvMLptkas/edit#slide=id.g3c874a1cea_0_27)
+to practice making a function that prints CSV data
+    - Use the with statement in Python (https://www.geeksforgeeks.org/with-statement-in-python/)
+    - Use the csv module with the reader object (https://docs.python.org/3/library/csv.html#csv.reader)
+    - Use the join method (https://www.w3schools.com/python/ref_string_join.asp)
