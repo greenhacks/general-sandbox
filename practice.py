@@ -8,7 +8,7 @@ def print_csv_data(filename):
             print(', '.join(row)) # use the join method to print each row, separated by a comma
     csv_file.close() # close the file
 
-def print_csv_from_dict(file):
+def print_csv_with_dict(file):
     """Print CSV data using the built-in DictReader object"""
     with open("favoritetvshows-formresponses1.csv", "r") as file:
         reader = csv.DictReader(file) # make a DictReader variable
