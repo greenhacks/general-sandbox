@@ -16,3 +16,7 @@ Attempt a loop / iterating through an array in the following languages:
 - Python
 - Elixir
 - Golang
+
+4/13/2022:
+- Learning how to leave comments in various languages
+- Added Rust
