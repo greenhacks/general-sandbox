@@ -20,3 +20,11 @@ Attempt a loop / iterating through an array in the following languages:
 4/13/2022:
 - Learning how to leave comments in various languages
 - Added Rust
+
+6/20/2022
+Made my first loop in Java
+Public classes, methods, constructors are important to understand. Key articles:
+- https://www.geeksforgeeks.org/java-main-method-public-static-void-main-string-args/
+- https://docs.oracle.com/javase/tutorial/java/javaOO/classdecl.html
+- https://stackoverflow.com/questions/55794907/cant-find-mainstring-method-in-class-tapedeck-the-main-method-is-in-the-o
+- https://stackoverflow.com/questions/21691551/for-loop-gets-error-illegal-start-of-type
