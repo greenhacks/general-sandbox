@@ -1,0 +1,17 @@
+John Smilga:
+
+7/8/2022 - 7/9/2022
+- Tutorial followed: Color Flipper - https://www.youtube.com/watch?v=3PHXvlpOkf4&t=421s
+- Seen in: freeCodeCamp - https://www.freecodecamp.org/news/javascript-projects-for-beginners/#how-to-create-a-color-flipper
+- Key concepts covered:
+    arrays
+    document.getElementById()
+    document.querySelector()
+    addEventListener()
+    document.body.style.backgroundColor
+    Math.floor()
+    Math.random()
+    array.length
+- Starter CSS file taken from: https://github.com/yinsweet/JohnSmilga-JS-Basic-Proj/blob/master/1-color-flipper/setup/styles.css
+- textContent link = https://www.w3schools.com/jsref/prop_node_textcontent.asp
+- CSS link = https://www.freecodecamp.org/news/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849/
