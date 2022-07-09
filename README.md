@@ -1,7 +1,9 @@
-## General Sandbox
+# General Sandbox
 
-This repo contains random scripts used for general coding practice. Updates will be made over time.
+This repo contains starter JS projects and other random scripts used for general coding practice. Updates will be made over time.
 
-# Languages
+## Languages
 - Python (v3.9.10)
+- JavaScript
+
 
