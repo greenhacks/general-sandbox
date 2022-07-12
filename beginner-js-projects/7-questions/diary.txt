@@ -1,0 +1,13 @@
+John Smilga:
+
+7/9/2022:
+- Tutorial followed: FAQ page - https://www.youtube.com/watch?v=3PHXvlpOkf4&t=6506s
+- Seen in: freeCodeCamp - https://www.freecodecamp.org/news/javascript-projects-for-beginners/#how-to-create-a-faq-page
+- Key concepts covered:    
+    document.querySelectorAll()
+    addEventListener()
+    forEach()
+    classList.remove()
+    classList.toggle()
+
+- Starter CSS file: https://github.com/john-smilga/javascript-basic-projects/blob/master/07-questions/setup/styles.css
