@@ -1,0 +1,14 @@
+John Smilga:
+
+7/16/2022:
+- Tutorial followed: Counter page - https://www.youtube.com/watch?v=3PHXvlpOkf4&t=6506s
+- Seen in: freeCodeCamp - https://www.freecodecamp.org/news/javascript-projects-for-beginners/#how-to-create-a-counter
+- Key concepts covered:    
+    document.querySelectorAll()
+    forEach()
+    addEventListener()
+    currentTarget property
+    classList
+    textContent
+
+- Starter CSS file: https://github.com/john-smilga/javascript-basic-projects/blob/master/02-counter/setup/styles.css
