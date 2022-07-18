@@ -1,0 +1,13 @@
+John Smilga:
+
+7/18/2022:
+- Tutorial followed: Reviews page - https://www.youtube.com/watch?v=3PHXvlpOkf4&t=6506s
+- Seen in: freeCodeCamp - https://www.freecodecamp.org/news/javascript-projects-for-beginners/#how-to-create-a-review-carousel
+- Key concepts covered:    
+    objects
+    DOMContentLoaded
+    addEventListener()
+    array.length
+    textContent
+
+- Starter CSS file: https://github.com/john-smilga/javascript-basic-projects/blob/master/03-reviews/setup/styles.css
