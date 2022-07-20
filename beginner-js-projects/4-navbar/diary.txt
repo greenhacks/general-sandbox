@@ -1,0 +1,11 @@
+John Smilga:
+
+7/19/2022:
+- Tutorial followed: Responsive navbar - https://www.youtube.com/watch?v=3PHXvlpOkf4&t=6506s
+- Seen in: freeCodeCamp - https://www.freecodecamp.org/news/javascript-projects-for-beginners/#how-to-create-a-responsive-navbar
+- Key concepts covered:    
+    document.querySelector()
+    addEventListener()
+    classList.toggle()
+
+- Starter files: https://github.com/john-smilga/javascript-basic-projects/tree/master/04-navbar/setup
